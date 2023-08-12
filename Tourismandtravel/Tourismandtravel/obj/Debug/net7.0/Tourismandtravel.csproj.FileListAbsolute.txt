@@ -1,0 +1,9 @@
+D:\Tourismandtravel\Tourismandtravel\obj\Debug\net7.0\Tourismandtravel.csproj.AssemblyReference.cache
+D:\Tourismandtravel\Tourismandtravel\obj\Debug\net7.0\Tourismandtravel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tourismandtravel\Tourismandtravel\obj\Debug\net7.0\Tourismandtravel.AssemblyInfoInputs.cache
+D:\Tourismandtravel\Tourismandtravel\obj\Debug\net7.0\Tourismandtravel.AssemblyInfo.cs
+D:\Tourismandtravel\Tourismandtravel\obj\Debug\net7.0\Tourismandtravel.csproj.CoreCompileInputs.cache
+D:\Tourismandtravel\Tourismandtravel\obj\Debug\net7.0\Tourismandtravel.MvcApplicationPartsAssemblyInfo.cs
+D:\Tourismandtravel\Tourismandtravel\obj\Debug\net7.0\Tourismandtravel.MvcApplicationPartsAssemblyInfo.cache
+D:\Tourismandtravel\Tourismandtravel\obj\Debug\net7.0\Tourismandtravel.RazorAssemblyInfo.cache
+D:\Tourismandtravel\Tourismandtravel\obj\Debug\net7.0\Tourismandtravel.RazorAssemblyInfo.cs
